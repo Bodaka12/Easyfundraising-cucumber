@@ -1,0 +1,11 @@
+2022-05-31 23:05:337 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:569 INFO  HomePage :24 - Clicking on searchcause : [[ChromeDriver: chrome on WINDOWS (98f7ca2dc25b172d4ec3bcaf7a5d7fa5)] -> xpath: //input[@id='causeTerm']]
+2022-05-31 23:05:658 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:106 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:06 INFO  HomePage :24 - Clicking on searchcause : [[ChromeDriver: chrome on WINDOWS (6e1ecdd5e2c084cc966fc9e36b09f81a)] -> xpath: //input[@id='causeTerm']]
+2022-05-31 23:05:222 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:40 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:215 INFO  HomePage :24 - Clicking on searchcause : [[ChromeDriver: chrome on WINDOWS (539b79b890a52fc94eb7a63209d139e6)] -> xpath: //input[@id='causeTerm']]
+2022-05-31 23:05:512 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-31 23:05:308 INFO  HomePage :24 - Clicking on searchcause : [[ChromeDriver: chrome on WINDOWS (2383f95de322ec2033426dc29f9a9cca)] -> xpath: //input[@id='causeTerm']]
+2022-05-31 23:05:282 INFO  HomePage :42 - Clicking on searchLink : [[ChromeDriver: chrome on WINDOWS (2383f95de322ec2033426dc29f9a9cca)] -> xpath: //button[@id='causeSubmitSearch']]
